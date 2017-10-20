@@ -1,0 +1,22 @@
+{
+  "name": "experiments-d3js",
+  "version": "1.0.0",
+  "description": "example code for d3js projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "author": "Kato Thompson",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.16.2",
+    "d3": "^4.11.0",
+    "express": "^4.16.2",
+    "sqlite3": "^3.1.13"
+  },
+  "devDependencies": {
+    "ava": "^0.22.0",
+    "nodemon": "^1.12.1",
+    "supertest": "^3.0.0"
+  }
+}
